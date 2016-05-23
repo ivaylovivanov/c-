@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_RadianToDegree", "L13_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_USDtoBGN", "L14_USDtoBGN\L14_USDtoBGN.csproj", "{4DF1052C-962F-4CF7-A2E3-5D4AABB483A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_CurrencyConverter", "L15_CurrencyConverter\L15_CurrencyConverter.csproj", "{EDBFB817-B732-428C-BB81-E7B4D66F92E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4DF1052C-962F-4CF7-A2E3-5D4AABB483A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF1052C-962F-4CF7-A2E3-5D4AABB483A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DF1052C-962F-4CF7-A2E3-5D4AABB483A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBFB817-B732-428C-BB81-E7B4D66F92E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBFB817-B732-428C-BB81-E7B4D66F92E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBFB817-B732-428C-BB81-E7B4D66F92E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBFB817-B732-428C-BB81-E7B4D66F92E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
